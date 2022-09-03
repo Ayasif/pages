@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Two Pages</title>
+  </head>
+
+  <body style="background-color:rgb(79, 79, 233) ; color: azure;">
+  <p><i> <span style="font-size: 30px;">Some beatiful Pictures</span></i></p>
+
+   <img style="width:300px; height:300px" src="1.jpg" alt="no imag" >
+   <img style="width:300px; height:300px" src="16.jpeg" alt="no imag">
+   <img style="width:300px; height:300px" src="8.jpg" alt="no imag" >
+   <img style="width:300px; height:300px" src="2.jpg" alt="no imag" >
+   <img style="width:300px; height:300px" src="3.jpg" alt="no imag" >
+   <img style="width:300px; height:300px" src="4.jpg" alt="no imag" >
+   <img style="width:300px; height:300px" src="5.jpg" alt="no imag" >
+   <img style="width:300px; height:300px" src="6.jpg" alt="no imag" >
+   <img style="width:300px; height:300px" src="7.jpg" alt="no imag" >
+   <img style="width:300px; height:300px" src="9.jpg" alt="no imag" >
+   <img style="width:300px; height:300px" src="14.jpg" alt="no imag">
+   <img style="width:300px; height:300px" src="18.jpeg" alt="no imag" >
+   
+
+  <br>
+   <a href="index.html"> <i style="color:rgb(14, 0, 7)">Previous Page</i> </a>
+  </body>
+</html>    

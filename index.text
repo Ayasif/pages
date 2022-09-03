@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Two Pages</title>
+  </head>
+  <body style="background-color:rgb(79, 79, 233) ; color: azure;">
+    <h1><i>Web Areas :</i></h1>
+    <ol>
+        <li><h3> Web Desine </h3></li>
+        <li>
+            <h3> Web Development </h3>
+            
+            <ol>
+                <li><h3> Front-end web developer </h3>
+                    <ul> 
+                        <li><b> Html </b></li>
+                        <li><b> Css </b></li>
+                        <li><b> Js </b></li>
+                    </ul>
+                </li>
+                <li><h3> Back-end web developer </h3>
+                    <ul> 
+                        <li><b> Php </b></li>
+                        <li><b> Java </b></li>
+                        <li><b> Sql </b></li>
+                    </ul>
+                </li>
+
+                <li><h3> Full Stack developer </h3>
+                   <p><b>Back-end & Front-end web developer </b></p> 
+                </li>
+            </ol>
+        </li>
+     </ol>
+     <a href="index2.html"> <i style="color:rgb(18, 11, 1)">Next Page</i> </a>
+    </body>
+</html>
