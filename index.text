@@ -3,7 +3,7 @@
   <head>
     <title>Two Pages</title>
   </head>
-  <body style="background-color:pink ; color: azure;">
+  <body style="background-color:# f44336; color: azure;">
     <h1><i>Web Areas :</i></h1>
     <ol>
         <li><h3> Web Desine </h3></li>
